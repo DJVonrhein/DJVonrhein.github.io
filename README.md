@@ -8,7 +8,7 @@ Why did a page come out all black?
 
 Why did a page look unchanged?
 
-  This is because the algorithm failed to locate the clefs that you didn't specify for. Most likely a treble clef that was skinnier than the templates I prepared the algorithm for will go undetected! I am working on it.
+  This is because the algorithm failed to locate the clefs that you didn't specify for. Most likely a treble clef that was skinnier than the templates I prepared the algorithm for will go undetected! (Certtainly happends with bass clefs as well, espcially small inline clefs) I am working on it :)
 
 
   
